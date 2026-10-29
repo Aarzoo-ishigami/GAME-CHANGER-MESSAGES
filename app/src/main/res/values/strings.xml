@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GC Messages</string>
+    <string name="search_conversations">Search messages, peers &amp; files</string>
+    <string name="tab_messages">Messages</string>
+    <string name="tab_mesh_radar">Mesh &amp; Drop</string>
+    <string name="tab_tactical_map">Tactical Map</string>
+    <string name="tab_security_vault">Stealth Vault</string>
+    <string name="input_placeholder">Enter message (Mesh / SMS)</string>
+    <string name="duress_mode_banner">DECOY INBOX ACTIVE — KEYS WIPED FROM RAM</string>
+    <string name="mesh_status_active">P2P_CLUSTER + BLE 5.0 + Wi-Fi Direct Ready</string>
+    <string name="btn_gallery">Gallery</string>
+    <string name="btn_camera">Privacy Camera</string>
+    <string name="btn_attach">Stealth Mesh-Drop Attach</string>
+    <string name="btn_send">Send Message</string>
+    <string name="btn_voice">Voice / Quick Send</string>
+</resources>

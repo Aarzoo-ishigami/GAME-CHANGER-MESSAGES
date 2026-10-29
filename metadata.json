@@ -1,0 +1,6 @@
+{
+  "name": "GC Messages",
+  "description": "Offline-first stealth mesh messaging and tactical SMS application with BLE/Wi-Fi Direct multi-hop DTN, AES-256 encrypted local vault, stealth file chunking, privacy camera, and tactical SOS map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
